@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "dDhp/R9rZEDHQeQZ/hZDaBpR7l3DeLTtqtg9vbyd66Hc4Yfcc5/5sczDDUtJZV1XWwP1VjsKL22JEEr+PDvGZg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\piuliano\\Desktop\\CTEDA\\CTEDA 2024 2do\\TPFinal_vs_base\\tpfinal.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\piuliano\\.nuget\\packages\\textfieldparserstandard\\1.0.0\\textfieldparserstandard.1.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
